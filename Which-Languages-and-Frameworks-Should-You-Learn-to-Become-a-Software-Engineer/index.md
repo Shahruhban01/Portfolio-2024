@@ -2,7 +2,7 @@
 
 **October 01, 2024 · 6 min read**
 
-![Which Programming Languages Should You Learn to Become A Hacker?](../_nuxt/img/6607777.jpg)
+![Which Programming Languages Should You Learn to Become A Hacker?](../_nuxt/img/languages-to-become-software-engineer.jpeg)
 
 Becoming a software engineer or developer is an exciting and rewarding journey. In today’s tech-driven world, the demand for skilled software professionals continues to grow, and understanding the right languages and frameworks can significantly enhance your career prospects. Whether you’re just starting out or looking to expand your skill set, this guide will help you identify the essential programming languages and frameworks you should consider learning.
 
